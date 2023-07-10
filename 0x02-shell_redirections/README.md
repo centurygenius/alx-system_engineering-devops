@@ -1,0 +1,1 @@
+A readme file describing the inputand output redirections of file with filters
